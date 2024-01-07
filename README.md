@@ -9,7 +9,7 @@
 ## Relevant Coursework
 - **Introduction to Algorithms**: I've gained proficiency in fundamental algorithmic paradigms:
 
-Greedy Algorithms: Making locally optimal choices for global efficiency.\\
+Greedy Algorithms: Making locally optimal choices for global efficiency.
 Divide-and-Conquer: Breaking down complex problems into manageable subproblems.
 Dynamic Programming: Efficiently solving problems with overlapping substructures.
 Reductions: Transforming problems through strategic reductions.
