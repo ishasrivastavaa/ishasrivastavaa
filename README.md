@@ -51,5 +51,13 @@ Advanced Methods: Bootstrap, random forests, and cross-validation for robust sta
 Practical Application: Analyzing real-world data sets and communicating findings in a clear, reproducible manner within project settings.
 
 
+## Projects
+**Reinforcement Learning with Q-Learning** As part of a class assignment, I successfully implemented a Q-learning algorithm for the FrozenLake-v1 environment from OpenAI Gym. The goal of the project was to train an agent to navigate through a discrete environment, reaching a goal tile marked 'G' and receiving a reward of 1 while obtaining a reward of 0 in all other states. The implementation is encapsulated in the Q-Learning.py file.
+
+**Intelligent Puzzle Solver using A Algorithm*** Developed a sophisticated Python program capable of solving puzzles using the A* search algorithm. The project focuses on the classic 8-puzzle, where the goal is to rearrange a set of tiles within a 3x3 grid to achieve a specific configuration.
+
+
+
+
 
 
