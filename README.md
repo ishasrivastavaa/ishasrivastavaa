@@ -10,7 +10,7 @@
 - **Database Management**: MongoDB, DynamoDB, SQL (MySQL, PostgreSQL)
 
 ## Education						       		
-- B.S., Double Major: Computer Science & Data Science | University of Wisconsin - Madison (_Dec 2024_)
+- B.S., Double Major: Computer Science & Data Science, Minor: Economics | University of Wisconsin - Madison 
 
 
 
