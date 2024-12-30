@@ -9,8 +9,9 @@
 - **Big Data & AI**: Apache Spark, TensorFlow, PyTorch, Machine Learning Models
 - **Database Management**: MongoDB, DynamoDB, SQL (MySQL, PostgreSQL)
 
-## Education						       		
-- B.S., Double Major: Computer Science & Data Science, Minor: Economics | University of Wisconsin - Madison 
+## Education
+- University of Wisconsin - Madison 
+- B.S., Double Major: Computer Science & Data Science, Minor: Economics
 
 
 
